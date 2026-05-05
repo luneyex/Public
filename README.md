@@ -33,5 +33,5 @@
 </table>
 
 <br>
-  <h3>𓏲ּ𝄢 I will sahre my coding skills soon.. :3 𓏲ּ𝄢 </h3>
+  <h3>𓏲ּ𝄢 I will share my coding skills soon.. :3 𓏲ּ𝄢 </h3>
 
