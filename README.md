@@ -26,11 +26,11 @@
   <tr>
     <td><img src="Designs/“The city doesn’t sleep… it feeds.” .png"><br></td>
     <td><img src="Designs/spidermanXvenom.png"><br></td>
+    <td><img src="Designs/spidermanXvenom(2_font).png"><br></td>
   </tr>
-  <tr>
-    <td><img src="Designs/spidermanXvenom.png(2_font)"><br></td>
-  </tr>
+  
 </table>
+
 <br>
   <h3>I will sahre my coding skills soon.. :3</h3>
 
