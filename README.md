@@ -29,6 +29,11 @@
     
   </tr>
   <tr><td><img src="Designs/spidermanXvenom(2_font).png"><br></td></tr>
+
+  <tr>
+    <td><img src="Designs/"Perhaps... This is Freedom".png"</td>
+    <td><img src="Designs/“I just keep moving forward…”.png"></td>
+  </tr>
   
 </table>
 
