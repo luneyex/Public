@@ -16,6 +16,7 @@
 <h4>⋆. 𐙚 ˚Instagram : luneyex </h4>
 <h4>⋆. 𐙚 ˚Twitter : luneyex_ </h4>
 <h4>⋆. 𐙚 ˚Twitch : luneyex_ </h4>
+<h4>⋆. 𐙚 ˚Youtube : luneyex </h4>
 
 
 
