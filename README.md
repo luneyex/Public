@@ -12,6 +12,14 @@
 <h4>⋆. 𐙚 ˚Minecraft</h4>
 <h4>⋆. 𐙚 ˚Playing Football</h4>
 
+## ⋆˚꩜｡ My Social Medias:
+<h4>⋆. 𐙚 ˚Instagram : luneyex </h4>
+<h4>⋆. 𐙚 ˚Twitter : luneyex_ </h4>
+<h4>⋆. 𐙚 ˚Twitch : luneyex_ </h4>
+
+
+
+
 ## 🎨 Design Gallery
 
 <table>
